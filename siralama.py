@@ -1,3 +1,4 @@
+#Mehmet Serdar KOZ
 def bubble_sort(liste, siralama="artan"):
     n = len(liste)
     for i in range(n):
@@ -24,3 +25,4 @@ print("Artan Sıralı Liste:", sirali_liste_artan)
 # Azalan sıralama
 sirali_liste_azalan = bubble_sort(sayilar, siralama="azalan")
 print("Azalan Sıralı Liste:", sirali_liste_azalan)
+#2218121035
